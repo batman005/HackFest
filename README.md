@@ -61,6 +61,7 @@ The biggest challenge was to rendering the 3D model and adding AR functionality 
 
 Required to install and run the software:
 
+- node
 - [npm](https://www.npmjs.com/get-npm)
 
 ## Installing and Running
