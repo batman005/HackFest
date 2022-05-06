@@ -1,8 +1,8 @@
-# HackHaward
+# HackFest
 
 ## Live demo
 
-The site is deployed through Vercel, which you can view from [here](https://the-night-sky.vercel.app/)
+The site is deployed through Vercel, which you can view from [here]()
 
 ## Demo video
 
